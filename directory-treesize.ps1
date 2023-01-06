@@ -62,7 +62,7 @@
     File Name  : directory-treesize.ps1
     Author     : jagilber
     Version    : 180901 original
-    History    : 
+    History    : change #1
 
 .EXAMPLE
     .\directory-treesize.ps1
